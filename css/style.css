@@ -47,6 +47,7 @@
   height: 375px;
   position: absolute;
   z-index: 55;
+  box-shadow: -5px 20px 40px var(--very-dark-desaturated-blue);
   border-radius: 10px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
