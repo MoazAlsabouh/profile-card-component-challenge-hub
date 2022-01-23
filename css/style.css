@@ -120,7 +120,7 @@
   text-align: center;
 }
 
-.contenar .card .dataflowrs .info h3 {
+.contenar .card .dataflowrs .info h2 {
   color: var(--very-dark-desaturated-blue);
   font-weight: bold;
 }
